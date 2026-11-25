@@ -1,0 +1,13 @@
+Site David's Colors
+
+Ouvrir : double-cliquez sur index.html.
+Mettre en ligne : déposez tout le contenu de ce dossier chez votre hébergeur.
+
+Ajouter une photo de chantier :
+1. Copiez la photo (.jpg) dans le dossier photos/projets
+2. Ouvrez photos.js avec le Bloc-notes et ajoutez une ligne dans la liste :
+   { fichier: "nom-de-la-photo.jpg", legende: "Votre légende" },
+   (gardez la virgule en fin de ligne, sauf pour la dernière)
+Conseil : photos de 1600 pixels de large maximum, pour un site rapide.
+
+Textes et coordonnées : index.html. Couleurs et mise en page : style.css.
